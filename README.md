@@ -9,7 +9,7 @@ I am a **Full Stack Web Developer** based in Italy, specializing in building rob
 ### 🛠️ Tech Stack & Tools
 
 * **Backend:** C# (.NET Framework), Python, SQL.
-* **Frontend:** HTML5, CSS3 (Bootstrap), JavaScript (jQuery)[cite: 8, 16].
+* **Frontend:** HTML5, CSS3 (Bootstrap), JavaScript (jQuery).
 * **DevOps & Infrastructure (still learning):** Docker, Kubernetes (K8s/K3s), Linux, Git.
 * **Networking:** Cisco CCNA Routing and Switching.
 
