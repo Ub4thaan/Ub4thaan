@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Daniel Martin! 👋
 
-<!--
-**Ub4thaan/Ub4thaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full Stack Web Developer** based in Italy, specializing in building robust enterprise web applications, accounting systems, and management software. With over 6 years of professional experience, I bridge the gap between solid backend logic, functional frontends, and modern infrastructure.
 
-Here are some ideas to get you started:
+🌍 **Bilingual Native** (Italian & German) | 🗣️ Fluent in English.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Backend:** C# (.NET Framework), Python, SQL.
+* **Frontend:** HTML5, CSS3 (Bootstrap), JavaScript (jQuery)[cite: 8, 16].
+* **DevOps & Infrastructure (still learning):** Docker, Kubernetes (K8s/K3s), Linux, Git.
+* **Networking:** Cisco CCNA Routing and Switching.
+
+---
+
+### 🚀 What I'm Working On
+* 💼 **Professional Work:** Currently developing and maintaining scalable web-based management and accounting software for insurance agencies and sports federations. Most of my daily code is proprietary.
+* 🔬 **Personal Playground:** Building up this space to share open-source templates, clean architecture setups in .NET (projects under development).
+* 🐳 **DevOps Journey:** Deep diving into container orchestration, cloud-native deployments, and infrastructure-as-code using Docker and K3s/Kubernetes.
+
+---
+
+### 🥋 Outside of Tech
+When I'm not writing code or configuring clusters, you can find me practicing **Karate** (I'm a 2nd Dan black belt and trainer) or diving into a good book.
+
+---
+
+### 📬 Connect with Me
+
+* 📧 Email: daniel.mrt.96@gmail.com
+* 💼 LinkedIn: [Daniel Martin](www.linkedin.com/in/daniel-m-079b5389)
